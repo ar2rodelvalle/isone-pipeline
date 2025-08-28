@@ -1,0 +1,11 @@
+# Python venv
+.venv/
+__pycache__/
+*.pyc
+
+# Local data
+data/
+output/
+
+# OS
+.DS_Store
